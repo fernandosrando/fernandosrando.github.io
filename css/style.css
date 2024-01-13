@@ -1,0 +1,43 @@
+html {
+    font-size: 16px;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    padding: 1em 10px;
+    background: rgba(15, 123, 253, 0.1);
+  }
+  
+  .blocoD {
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: auto;
+  }
+  
+  .blocoE {
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: auto;
+  }
+  
+  .avatar {
+    max-width: 100%;
+    max-heith: 30%;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  
